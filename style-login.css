@@ -37,3 +37,8 @@ body{
     font-weight: 500;
     color: #101828;
 }
+.container-login form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
