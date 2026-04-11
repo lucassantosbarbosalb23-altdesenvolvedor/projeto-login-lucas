@@ -32,3 +32,8 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.container-login h1{
+    font-size: 19.2px;
+    font-weight: 500;
+    color: #101828;
+}
