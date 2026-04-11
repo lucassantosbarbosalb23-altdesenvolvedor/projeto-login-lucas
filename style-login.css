@@ -42,3 +42,8 @@ body{
     flex-direction: column;
     width: 100%;
 }
+.container-login label{
+    font-size: 12.8px;
+    margin-top: 12.8px;
+    color: #344054;
+}
