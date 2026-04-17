@@ -62,3 +62,16 @@ body{
 .container-login input::focus{
     boder: 2px solid #D1E9FF;
 }
+.container-login button{
+    background-color: #1570EF;
+    border-radius: 6.4px !important;
+    color:#FFFFFF;
+    font-size: 12.8px;
+    font-weight: 500;
+    margin-top: 19.2px;
+    padding: 9.6px 9.6px 7.2px 9.6px;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.3s ease-out;
+}
