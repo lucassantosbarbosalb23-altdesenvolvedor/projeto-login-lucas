@@ -79,3 +79,8 @@ body{
     background-color: #030892;
     transition:0.6s;
 }
+.container-cadastro{
+    display: flex;
+    margin-top: 12.8px;
+    gap: 8px;
+}
